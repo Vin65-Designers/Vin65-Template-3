@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: http://template3.vin65.com/index.cfm?method=pages.searchEngineSiteMap
+
